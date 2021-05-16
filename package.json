@@ -1,0 +1,22 @@
+{
+  "name": "marebits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Twifag",
+  "license": "SEE LICENSE IN https://donutsteel.pl",
+  "devDependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.1.0",
+    "@openzeppelin/truffle-upgrades": "^1.7.0",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "@umaprotocol/truffle-ledger-provider": "^1.0.5",
+    "ganache-cli": "^6.12.2",
+    "regenerator-runtime": "^0.13.7",
+    "truffle": "^5.3.6",
+    "truffle-flattener": "^1.5.0",
+    "truffle-plugin-verify": "^0.5.8"
+  }
+}
